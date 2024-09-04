@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 # 💫 About Me:
-👋 Hi, I’m Pradyumna Shirude <br>👀 I’m interested in Problem solving and Coding-Decoding stuff's.<br>🌱 I’m currently trying my hands - on programming languages like (Python, C++, SQL, Java Script).<br>💞️ I’m looking to collaborate on Web development and database involved based projects.<br>📫 How to reach me you can mail me at pradyumna.shirude@gmail.com.<br>Check my portfolio website https://pradyumna-portfolio.netlify.app 
+👋 Hi, I’m Pradyumna Shirude <br>👀 I’m interested in Problem solving and Coding-Decoding stuff's.<br>🌱 I’m currently trying my hands - on programming languages like (Python, C++, SQL, Java Script).<br>💞️ I’m looking to collaborate on Web development and database intensive based projects.<br>📫 How to reach me you can mail me at pradyumna.shirude@gmail.com.<br>Check my portfolio website https://pradyumna-portfolio.netlify.app 
 
 
 ## 🌐 Socials:
